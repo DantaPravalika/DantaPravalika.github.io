@@ -1,2 +1,2 @@
 # DantaPravalika.github.io
-WEB-DEV BOOTCAMP SHAPEAI
+INTERNSHIP STUDIO
